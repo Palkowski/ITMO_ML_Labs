@@ -1,1 +1,1 @@
-Решения индивидуальных заданий курсов ИТМО по машинному обучению.
+# The individual tasks solutions for ITMO ML openedu courses

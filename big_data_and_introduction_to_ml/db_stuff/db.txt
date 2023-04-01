@@ -1,0 +1,10 @@
+SELECT MUSEUM_NAME FROM MUSEUM WHERE FOUNDATION_YEAR = 1764
+
+SELECT * FROM EXHIBIT WHERE AUTHOR = 'Шишкин И. И.' ORDER BY YEAR_OF_CREATION ASC
+SELECT * FROM EXHIBIT WHERE AUTHOR = 'Шишкин И. И.' ORDER BY YEAR_OF_CREATION DESC
+
+db.NEURONET.find({reference:"WWDU06915"},{inceptiondate:1})
+
+db.NEURONET.find({reference:"WWBW06087"}, {"claims.riskname":"Утрата, уничтожение или повреждение активов (информационных,  электронных финансовых) в результате компьютерных атак, действий компьютерных вирусов, ввода мошеннических электронных команд в информационные системы","claims.sum":1})
+
+SELECT * FROM PULSAR_STARS WHERE (TARGET = 0 AND MIP >= 84.3515625 AND MIP <= 85.5234375) OR (TARGET = 1 AND MIP >= 83.7734375 AND MIP <= 92.6015625)

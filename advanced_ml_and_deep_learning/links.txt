@@ -1,0 +1,231 @@
+# 1. Введение
+# 1.1. Введение в машинное обучение и анализ данных
+https://www.youtube.com/watch?v=RQmfJLmYFV8
+https://www.youtube.com/watch?v=2rjbnjqdOds
+https://www.youtube.com/watch?v=lXD1YYPZT1M
+https://www.youtube.com/watch?v=lPHwc1lIX7E
+https://www.youtube.com/watch?v=_tO49sk3100
+https://www.youtube.com/watch?v=PS2LYwuT0ZA
+https://www.youtube.com/watch?v=iWVFi0chDz8
+# 1.2. Введение в Python
+https://www.youtube.com/watch?v=CVsHmZ-KuEk
+https://www.youtube.com/watch?v=wx2IlIAJG0E
+https://www.youtube.com/watch?v=DSQema7dzx8
+https://www.youtube.com/watch?v=81VrlDgo024
+https://www.youtube.com/watch?v=S7qQVWHFdVo
+https://www.youtube.com/watch?v=ZSKebVVyeC4
+https://www.youtube.com/watch?v=HQiTIxhScns
+https://www.youtube.com/watch?v=AHxPYiTkk8A
+
+
+# 2. Метод главных компонент и задача регрессии
+# 2.1. Метод главных компонент
+https://www.youtube.com/watch?v=T3ipN6RPQtg
+https://www.youtube.com/watch?v=jFSES2mPEuY
+https://www.youtube.com/watch?v=vpB9eiWFRMw
+https://www.youtube.com/watch?v=f0eijSFiU5M
+https://www.youtube.com/watch?v=dUe1bmhvjl0
+https://www.youtube.com/watch?v=_FEVpFXryPw
+https://www.youtube.com/watch?v=gXnlvwePYXc
+https://www.youtube.com/watch?v=4ZqdWDLPtro
+https://www.youtube.com/watch?v=14_1xl7WL-M
+# 2.2. Простейшая линейная регрессия
+https://youtu.be/oKOtcjoj1sQ
+https://youtu.be/CfFMpr01DQ8
+https://youtu.be/mtYbZapUwcc
+https://youtu.be/NVwmSFIdc-w
+https://youtu.be/s0m0be7l2s0
+https://youtu.be/BLtLNnKun3g
+https://youtu.be/nYmadO3-NoU
+# 2.3. Множественная линейная регрессия
+https://youtu.be/DfMX62jpIF8
+https://youtu.be/W1u0tE-PR7o
+https://youtu.be/djxGuVDWrc4
+
+
+# 3. Задача классификации часть 1
+# 3.1. Метод k-ближайших соседей
+https://youtu.be/qGpAcDh4tuc
+https://youtu.be/tcUoUrNnPWs
+https://youtu.be/-WpU2a4pctg
+https://youtu.be/2tea4rI1P0o
+https://youtu.be/8ow5FDaKsIc
+# 3.2. Алгоритмы, их оценка и разделение набора данных
+https://youtu.be/ju7usua2CyQ
+https://youtu.be/ljJE01VlVMM
+https://youtu.be/B6YxILKJEQo
+# 3.3. Наивный байесовский классификатор
+https://youtu.be/OK-304430lY
+https://youtu.be/p1RLMwGk_fU
+https://youtu.be/rvudzHWlXKQ
+# 3.4. Логистическая регрессия
+https://youtu.be/hOzd86uEVy0
+https://youtu.be/uQgPoCm6vEQ
+https://youtu.be/cr-aTaHglpU
+https://youtu.be/YO4hYN_YdQw
+https://youtu.be/0KGWbk0fGxc
+https://youtu.be/_b18lKe6LeU
+https://youtu.be/dmdXahzLr60
+https://youtu.be/ejiEzXqGML4
+https://youtu.be/ilmrJ2qzvwE
+
+
+# 4. Задача классификации часть 2
+# 4.1. SVM для линейно разделимой выборки
+https://youtu.be/KGhhwfRqn_g
+https://youtu.be/Be8uBRCVWO4
+https://youtu.be/2vOQWY6JwBE
+https://youtu.be/VGZ4qSk1SAw
+# 4.2. SVM для линейно неразделимой выборки
+https://youtu.be/o0YDzvoaRGI
+https://youtu.be/_PlhiyAAgIM
+https://youtu.be/XtxVTj-LwOQ
+# 4.3. Энтропия
+https://youtu.be/7zf93S27Zqw
+https://youtu.be/OTzJ1pcHNxY
+https://youtu.be/T3F89zjvPkA
+https://youtu.be/-wW1WGb69ys
+# 4.4. Деревья принятия решений
+https://youtu.be/loOvhszZMRA
+https://youtu.be/7DH_op0WMD4
+https://youtu.be/XXvaQa97CdA
+https://youtu.be/1wArGVeu0IY
+
+
+# 5. Кластеризация, библиотеки в Python
+# 5.1. Метод К-средних
+https://youtu.be/Z2q4nIGkA2c
+https://youtu.be/KV9A2X4WDtU
+https://youtu.be/SxyCKItThUs
+https://youtu.be/TkSuz0CAyfY
+https://youtu.be/156_CAfbJsk
+# 5.2. Агломеративная кластеризация и DBSCAN
+https://youtu.be/IoMb4gu8gQo
+https://youtu.be/42VfIrgsACE
+https://youtu.be/3up-hUG0vEA
+# 5.3. Пример с реальными данными
+https://youtu.be/Xsp7KIqleq0
+https://youtu.be/h4GDCYovWFw
+
+
+# 6. Ансамблевые методы, библиотеки в Python
+# 6.1. Ресемплинг
+https://youtu.be/RkGjjJZSAPs
+https://youtu.be/4no3oQWZ4Jo
+https://youtu.be/-CVtoyIEBXk
+https://youtu.be/sVun-_086S4
+# 6.2. Ансамбли моделей
+https://youtu.be/v_K6n75dCa4
+https://youtu.be/eG2hRllW8hY
+https://youtu.be/VGPBInOzcIA
+https://youtu.be/R_gsC_dUc8E
+https://youtu.be/NP0PycHFJLE
+https://youtu.be/Jq2hYO89N5E
+
+
+# 7. Обучение с подкреплением, библиотеки в Python
+# 7.1. Понятие обучения с подкреплением
+https://youtu.be/-skuHqyc6xc
+https://youtu.be/dG46depvs9k
+https://youtu.be/LiZuz0RZ5bA
+https://youtu.be/Cx4R8zVIySQ
+# 7.2. Общая постановка задачи
+https://youtu.be/c7lEfCaR9nw
+https://youtu.be/IAeersSzLHQ
+https://youtu.be/HzBmWUK71YA
+https://youtu.be/m_GD4SiCYII
+https://youtu.be/gFzV_Q8ZnFQ
+
+
+# 8. Введение в глубокое обучение
+# 8.1. Введение в глубокое обучение
+https://youtu.be/di8o1LKTQdg
+https://youtu.be/zvl1L6cVivs
+https://youtu.be/0fpNk_k7BKo
+https://youtu.be/JjUcusi8h5g
+https://youtu.be/1WlOalX6HTE
+https://youtu.be/QwYcKN5wDP4
+
+
+# 9. Перцептрон. Многослойные нейронные сети
+# 9.1. Перцептрон. Многослойные нейронные сети
+https://youtu.be/gPINt-zkgag
+https://youtu.be/ZcUxQku9_qU
+https://youtu.be/ZagQYk67n-w
+https://youtu.be/6_rR23iY9oM
+https://youtu.be/bOAqZV1tS1M
+https://youtu.be/r_u58CfOUxc
+https://youtu.be/QkDr9Gi_uBc
+https://youtu.be/R2LEJiZmMqE
+https://youtu.be/6ccnWMRkHuc
+
+
+# 10. Инструменты. Обучение НС
+# 10.1. Инструменты обучения нейронных сетей
+https://youtu.be/sDL2py0AFoo
+https://youtu.be/4-hZWsuQ_Ms, https://youtu.be/IM5FSDzzltE, https://youtu.be/OVRqPeyskfs
+https://youtu.be/b20X6HqSvXM, https://youtu.be/gB1R-Ld0UNA, https://youtu.be/GpDZBCLlMgs
+https://youtu.be/exQcoY2DNLI, https://youtu.be/GqESZGWbAnQ
+https://youtu.be/DXp0JkAI5Gw, https://youtu.be/1OBrEb1iDGg
+# 10.2. Оптимизаторы в нейронных сетях
+https://youtu.be/HM5K9S1Zy0Q, https://youtu.be/yhbIE0bGCig
+
+
+# 11. Сверточные нейронные сети
+# 11.1. Сверточные НС
+https://youtu.be/zTYMFGqYRBs
+https://youtu.be/12WCT3Fe3f8
+https://youtu.be/y8qF6dbmryk, https://youtu.be/EATrYL_6pnY
+https://youtu.be/l5xogLICVWQ, https://youtu.be/8YNauCKPy0Q
+https://youtu.be/na9M3PD6rGI, https://youtu.be/gUS14HMiSmk
+https://youtu.be/fjvntBsb2xo, https://youtu.be/1KPA1cKiWaU
+https://youtu.be/7hCqUYc4bx8, https://youtu.be/tk6xf8KgeFE
+https://youtu.be/OL59v12SFQo, https://youtu.be/RU18EnPGOP0, https://youtu.be/fpI1CsRJKBo
+
+
+# 12. Рекуррентные НС
+# 12.1 Рекуррентные НС
+https://youtu.be/VZM1_JbxXm0
+https://youtu.be/9Ppitl_KsTw
+https://youtu.be/NMNmjgP379w
+https://youtu.be/K8j4mZCYonQ, https://youtu.be/cUMClJs42oU
+https://youtu.be/8Eu1YjyoS40, https://youtu.be/1jx5VbvXWRo
+https://youtu.be/b6SU0oZZi9s, https://youtu.be/yzck_yfz_1I
+https://youtu.be/NmtIIo2iJvg
+https://youtu.be/0hTOGp4_zSE, https://youtu.be/w0N52IWk6Xw
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
