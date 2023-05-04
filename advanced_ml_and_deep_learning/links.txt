@@ -1,5 +1,5 @@
-# 1. Введение
-# 1.1. Введение в машинное обучение и анализ данных
+# 1. Р’РІРµРґРµРЅРёРµ
+# 1.1. Р’РІРµРґРµРЅРёРµ РІ РјР°С€РёРЅРЅРѕРµ РѕР±СѓС‡РµРЅРёРµ Рё Р°РЅР°Р»РёР· РґР°РЅРЅС‹С…
 https://www.youtube.com/watch?v=RQmfJLmYFV8
 https://www.youtube.com/watch?v=2rjbnjqdOds
 https://www.youtube.com/watch?v=lXD1YYPZT1M
@@ -7,7 +7,7 @@ https://www.youtube.com/watch?v=lPHwc1lIX7E
 https://www.youtube.com/watch?v=_tO49sk3100
 https://www.youtube.com/watch?v=PS2LYwuT0ZA
 https://www.youtube.com/watch?v=iWVFi0chDz8
-# 1.2. Введение в Python
+# 1.2. Р’РІРµРґРµРЅРёРµ РІ Python
 https://www.youtube.com/watch?v=CVsHmZ-KuEk
 https://www.youtube.com/watch?v=wx2IlIAJG0E
 https://www.youtube.com/watch?v=DSQema7dzx8
@@ -18,8 +18,8 @@ https://www.youtube.com/watch?v=HQiTIxhScns
 https://www.youtube.com/watch?v=AHxPYiTkk8A
 
 
-# 2. Метод главных компонент и задача регрессии
-# 2.1. Метод главных компонент
+# 2. РњРµС‚РѕРґ РіР»Р°РІРЅС‹С… РєРѕРјРїРѕРЅРµРЅС‚ Рё Р·Р°РґР°С‡Р° СЂРµРіСЂРµСЃСЃРёРё
+# 2.1. РњРµС‚РѕРґ РіР»Р°РІРЅС‹С… РєРѕРјРїРѕРЅРµРЅС‚
 https://www.youtube.com/watch?v=T3ipN6RPQtg
 https://www.youtube.com/watch?v=jFSES2mPEuY
 https://www.youtube.com/watch?v=vpB9eiWFRMw
@@ -29,7 +29,7 @@ https://www.youtube.com/watch?v=_FEVpFXryPw
 https://www.youtube.com/watch?v=gXnlvwePYXc
 https://www.youtube.com/watch?v=4ZqdWDLPtro
 https://www.youtube.com/watch?v=14_1xl7WL-M
-# 2.2. Простейшая линейная регрессия
+# 2.2. РџСЂРѕСЃС‚РµР№С€Р°СЏ Р»РёРЅРµР№РЅР°СЏ СЂРµРіСЂРµСЃСЃРёСЏ
 https://youtu.be/oKOtcjoj1sQ
 https://youtu.be/CfFMpr01DQ8
 https://youtu.be/mtYbZapUwcc
@@ -37,28 +37,28 @@ https://youtu.be/NVwmSFIdc-w
 https://youtu.be/s0m0be7l2s0
 https://youtu.be/BLtLNnKun3g
 https://youtu.be/nYmadO3-NoU
-# 2.3. Множественная линейная регрессия
+# 2.3. РњРЅРѕР¶РµСЃС‚РІРµРЅРЅР°СЏ Р»РёРЅРµР№РЅР°СЏ СЂРµРіСЂРµСЃСЃРёСЏ
 https://youtu.be/DfMX62jpIF8
 https://youtu.be/W1u0tE-PR7o
 https://youtu.be/djxGuVDWrc4
 
 
-# 3. Задача классификации часть 1
-# 3.1. Метод k-ближайших соседей
+# 3. Р—Р°РґР°С‡Р° РєР»Р°СЃСЃРёС„РёРєР°С†РёРё С‡Р°СЃС‚СЊ 1
+# 3.1. РњРµС‚РѕРґ k-Р±Р»РёР¶Р°Р№С€РёС… СЃРѕСЃРµРґРµР№
 https://youtu.be/qGpAcDh4tuc
 https://youtu.be/tcUoUrNnPWs
 https://youtu.be/-WpU2a4pctg
 https://youtu.be/2tea4rI1P0o
 https://youtu.be/8ow5FDaKsIc
-# 3.2. Алгоритмы, их оценка и разделение набора данных
+# 3.2. РђР»РіРѕСЂРёС‚РјС‹, РёС… РѕС†РµРЅРєР° Рё СЂР°Р·РґРµР»РµРЅРёРµ РЅР°Р±РѕСЂР° РґР°РЅРЅС‹С…
 https://youtu.be/ju7usua2CyQ
 https://youtu.be/ljJE01VlVMM
 https://youtu.be/B6YxILKJEQo
-# 3.3. Наивный байесовский классификатор
+# 3.3. РќР°РёРІРЅС‹Р№ Р±Р°Р№РµСЃРѕРІСЃРєРёР№ РєР»Р°СЃСЃРёС„РёРєР°С‚РѕСЂ
 https://youtu.be/OK-304430lY
 https://youtu.be/p1RLMwGk_fU
 https://youtu.be/rvudzHWlXKQ
-# 3.4. Логистическая регрессия
+# 3.4. Р›РѕРіРёСЃС‚РёС‡РµСЃРєР°СЏ СЂРµРіСЂРµСЃСЃРёСЏ
 https://youtu.be/hOzd86uEVy0
 https://youtu.be/uQgPoCm6vEQ
 https://youtu.be/cr-aTaHglpU
@@ -70,51 +70,51 @@ https://youtu.be/ejiEzXqGML4
 https://youtu.be/ilmrJ2qzvwE
 
 
-# 4. Задача классификации часть 2
-# 4.1. SVM для линейно разделимой выборки
+# 4. Р—Р°РґР°С‡Р° РєР»Р°СЃСЃРёС„РёРєР°С†РёРё С‡Р°СЃС‚СЊ 2
+# 4.1. SVM РґР»СЏ Р»РёРЅРµР№РЅРѕ СЂР°Р·РґРµР»РёРјРѕР№ РІС‹Р±РѕСЂРєРё
 https://youtu.be/KGhhwfRqn_g
 https://youtu.be/Be8uBRCVWO4
 https://youtu.be/2vOQWY6JwBE
 https://youtu.be/VGZ4qSk1SAw
-# 4.2. SVM для линейно неразделимой выборки
+# 4.2. SVM РґР»СЏ Р»РёРЅРµР№РЅРѕ РЅРµСЂР°Р·РґРµР»РёРјРѕР№ РІС‹Р±РѕСЂРєРё
 https://youtu.be/o0YDzvoaRGI
 https://youtu.be/_PlhiyAAgIM
 https://youtu.be/XtxVTj-LwOQ
-# 4.3. Энтропия
+# 4.3. Р­РЅС‚СЂРѕРїРёСЏ
 https://youtu.be/7zf93S27Zqw
 https://youtu.be/OTzJ1pcHNxY
 https://youtu.be/T3F89zjvPkA
 https://youtu.be/-wW1WGb69ys
-# 4.4. Деревья принятия решений
+# 4.4. Р”РµСЂРµРІСЊСЏ РїСЂРёРЅСЏС‚РёСЏ СЂРµС€РµРЅРёР№
 https://youtu.be/loOvhszZMRA
 https://youtu.be/7DH_op0WMD4
 https://youtu.be/XXvaQa97CdA
 https://youtu.be/1wArGVeu0IY
 
 
-# 5. Кластеризация, библиотеки в Python
-# 5.1. Метод К-средних
+# 5. РљР»Р°СЃС‚РµСЂРёР·Р°С†РёСЏ, Р±РёР±Р»РёРѕС‚РµРєРё РІ Python
+# 5.1. РњРµС‚РѕРґ Рљ-СЃСЂРµРґРЅРёС…
 https://youtu.be/Z2q4nIGkA2c
 https://youtu.be/KV9A2X4WDtU
 https://youtu.be/SxyCKItThUs
 https://youtu.be/TkSuz0CAyfY
 https://youtu.be/156_CAfbJsk
-# 5.2. Агломеративная кластеризация и DBSCAN
+# 5.2. РђРіР»РѕРјРµСЂР°С‚РёРІРЅР°СЏ РєР»Р°СЃС‚РµСЂРёР·Р°С†РёСЏ Рё DBSCAN
 https://youtu.be/IoMb4gu8gQo
 https://youtu.be/42VfIrgsACE
 https://youtu.be/3up-hUG0vEA
-# 5.3. Пример с реальными данными
+# 5.3. РџСЂРёРјРµСЂ СЃ СЂРµР°Р»СЊРЅС‹РјРё РґР°РЅРЅС‹РјРё
 https://youtu.be/Xsp7KIqleq0
 https://youtu.be/h4GDCYovWFw
 
 
-# 6. Ансамблевые методы, библиотеки в Python
-# 6.1. Ресемплинг
+# 6. РђРЅСЃР°РјР±Р»РµРІС‹Рµ РјРµС‚РѕРґС‹, Р±РёР±Р»РёРѕС‚РµРєРё РІ Python
+# 6.1. Р РµСЃРµРјРїР»РёРЅРі
 https://youtu.be/RkGjjJZSAPs
 https://youtu.be/4no3oQWZ4Jo
 https://youtu.be/-CVtoyIEBXk
 https://youtu.be/sVun-_086S4
-# 6.2. Ансамбли моделей
+# 6.2. РђРЅСЃР°РјР±Р»Рё РјРѕРґРµР»РµР№
 https://youtu.be/v_K6n75dCa4
 https://youtu.be/eG2hRllW8hY
 https://youtu.be/VGPBInOzcIA
@@ -123,13 +123,13 @@ https://youtu.be/NP0PycHFJLE
 https://youtu.be/Jq2hYO89N5E
 
 
-# 7. Обучение с подкреплением, библиотеки в Python
-# 7.1. Понятие обучения с подкреплением
+# 7. РћР±СѓС‡РµРЅРёРµ СЃ РїРѕРґРєСЂРµРїР»РµРЅРёРµРј, Р±РёР±Р»РёРѕС‚РµРєРё РІ Python
+# 7.1. РџРѕРЅСЏС‚РёРµ РѕР±СѓС‡РµРЅРёСЏ СЃ РїРѕРґРєСЂРµРїР»РµРЅРёРµРј
 https://youtu.be/-skuHqyc6xc
 https://youtu.be/dG46depvs9k
 https://youtu.be/LiZuz0RZ5bA
 https://youtu.be/Cx4R8zVIySQ
-# 7.2. Общая постановка задачи
+# 7.2. РћР±С‰Р°СЏ РїРѕСЃС‚Р°РЅРѕРІРєР° Р·Р°РґР°С‡Рё
 https://youtu.be/c7lEfCaR9nw
 https://youtu.be/IAeersSzLHQ
 https://youtu.be/HzBmWUK71YA
@@ -137,8 +137,8 @@ https://youtu.be/m_GD4SiCYII
 https://youtu.be/gFzV_Q8ZnFQ
 
 
-# 8. Введение в глубокое обучение
-# 8.1. Введение в глубокое обучение
+# 8. Р’РІРµРґРµРЅРёРµ РІ РіР»СѓР±РѕРєРѕРµ РѕР±СѓС‡РµРЅРёРµ
+# 8.1. Р’РІРµРґРµРЅРёРµ РІ РіР»СѓР±РѕРєРѕРµ РѕР±СѓС‡РµРЅРёРµ
 https://youtu.be/di8o1LKTQdg
 https://youtu.be/zvl1L6cVivs
 https://youtu.be/0fpNk_k7BKo
@@ -147,8 +147,8 @@ https://youtu.be/1WlOalX6HTE
 https://youtu.be/QwYcKN5wDP4
 
 
-# 9. Перцептрон. Многослойные нейронные сети
-# 9.1. Перцептрон. Многослойные нейронные сети
+# 9. РџРµСЂС†РµРїС‚СЂРѕРЅ. РњРЅРѕРіРѕСЃР»РѕР№РЅС‹Рµ РЅРµР№СЂРѕРЅРЅС‹Рµ СЃРµС‚Рё
+# 9.1. РџРµСЂС†РµРїС‚СЂРѕРЅ. РњРЅРѕРіРѕСЃР»РѕР№РЅС‹Рµ РЅРµР№СЂРѕРЅРЅС‹Рµ СЃРµС‚Рё
 https://youtu.be/gPINt-zkgag
 https://youtu.be/ZcUxQku9_qU
 https://youtu.be/ZagQYk67n-w
@@ -160,19 +160,19 @@ https://youtu.be/R2LEJiZmMqE
 https://youtu.be/6ccnWMRkHuc
 
 
-# 10. Инструменты. Обучение НС
-# 10.1. Инструменты обучения нейронных сетей
+# 10. РРЅСЃС‚СЂСѓРјРµРЅС‚С‹. РћР±СѓС‡РµРЅРёРµ РќРЎ
+# 10.1. РРЅСЃС‚СЂСѓРјРµРЅС‚С‹ РѕР±СѓС‡РµРЅРёСЏ РЅРµР№СЂРѕРЅРЅС‹С… СЃРµС‚РµР№
 https://youtu.be/sDL2py0AFoo
 https://youtu.be/4-hZWsuQ_Ms, https://youtu.be/IM5FSDzzltE, https://youtu.be/OVRqPeyskfs
 https://youtu.be/b20X6HqSvXM, https://youtu.be/gB1R-Ld0UNA, https://youtu.be/GpDZBCLlMgs
 https://youtu.be/exQcoY2DNLI, https://youtu.be/GqESZGWbAnQ
 https://youtu.be/DXp0JkAI5Gw, https://youtu.be/1OBrEb1iDGg
-# 10.2. Оптимизаторы в нейронных сетях
+# 10.2. РћРїС‚РёРјРёР·Р°С‚РѕСЂС‹ РІ РЅРµР№СЂРѕРЅРЅС‹С… СЃРµС‚СЏС…
 https://youtu.be/HM5K9S1Zy0Q, https://youtu.be/yhbIE0bGCig
 
 
-# 11. Сверточные нейронные сети
-# 11.1. Сверточные НС
+# 11. РЎРІРµСЂС‚РѕС‡РЅС‹Рµ РЅРµР№СЂРѕРЅРЅС‹Рµ СЃРµС‚Рё
+# 11.1. РЎРІРµСЂС‚РѕС‡РЅС‹Рµ РќРЎ
 https://youtu.be/zTYMFGqYRBs
 https://youtu.be/12WCT3Fe3f8
 https://youtu.be/y8qF6dbmryk, https://youtu.be/EATrYL_6pnY
@@ -183,8 +183,8 @@ https://youtu.be/7hCqUYc4bx8, https://youtu.be/tk6xf8KgeFE
 https://youtu.be/OL59v12SFQo, https://youtu.be/RU18EnPGOP0, https://youtu.be/fpI1CsRJKBo
 
 
-# 12. Рекуррентные НС
-# 12.1 Рекуррентные НС
+# 12. Р РµРєСѓСЂСЂРµРЅС‚РЅС‹Рµ РќРЎ
+# 12.1 Р РµРєСѓСЂСЂРµРЅС‚РЅС‹Рµ РќРЎ
 https://youtu.be/VZM1_JbxXm0
 https://youtu.be/9Ppitl_KsTw
 https://youtu.be/NMNmjgP379w
@@ -193,39 +193,3 @@ https://youtu.be/8Eu1YjyoS40, https://youtu.be/1jx5VbvXWRo
 https://youtu.be/b6SU0oZZi9s, https://youtu.be/yzck_yfz_1I
 https://youtu.be/NmtIIo2iJvg
 https://youtu.be/0hTOGp4_zSE, https://youtu.be/w0N52IWk6Xw
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
